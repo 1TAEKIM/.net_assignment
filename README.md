@@ -17,8 +17,11 @@
 1. 프로그램 요구 사항
  -교수, 직원, 조교, 학생을 클래스로 정의, Person 클래스를 선언하고 상속하기
  Person -> (Student, Faculty), Faculty->(Professor, Staff, Assistant)
- -학과 Department, 과목정보 Subject 클래스 선언
- -수강 완료된 과목 SubjectEnd 는 Struct 선언 
+
+ -학과 Department, 과목정보 Subject 클래스 선언  
+ 
+ -수강 완료된 과목 SubjectEnd 는 Struct 선언   
+ 
  -main 메서드는 전체 대학을 관리하기 위한 자료구조 선언.
  학과관리, 교직원(교수, 직원, 조교) 관리, 학생관리, 교과목 관리 
  -학교 admin, 학과 admin, 교수, 학생 로그인 가능
